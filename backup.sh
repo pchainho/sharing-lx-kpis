@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /root/testing
+cd /root/sharing-lx-kpis
 DAY=$(date +%d)
 MONTH=$(date +%m)
 YEAR=$(date +%y)
